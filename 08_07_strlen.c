@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main(){
-    char *st = "Harry";
+    char *st = "Mukul";
     int a = strlen(st);
     printf("The length of string st is %d", a);
     return 0;

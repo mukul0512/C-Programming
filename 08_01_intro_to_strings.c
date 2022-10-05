@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 int main(){
-    // char str[] = {'H', 'a', 'r', 'r', 'y', '\0'};
-    char str[] = "Harry";
+    // char str[] = {'M', 'u', 'k', 'u', 'l', '\0'};
+    char str[] = "Mukul";
     
     return 0;
 }

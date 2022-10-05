@@ -2,9 +2,11 @@
 
 int main()
 {
-    int a = 0;
+    int a;
+    printf("Enter the value of a: ");
     scanf("%d", &a);
-    while(a < 10){
+    while (a < 10)
+    {
         printf("%d\n", a);
         a++;
     }

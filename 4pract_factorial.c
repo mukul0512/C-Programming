@@ -2,7 +2,7 @@
 
 int main()
 {
-    int i =0, n = 7, factorial = 1;
+    int i = 0, n = 7, factorial = 1;
     for (i = 1; i <= n; i++)
     {
         factorial *= i;

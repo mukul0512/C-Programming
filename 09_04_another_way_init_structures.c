@@ -8,11 +8,11 @@ struct employee{
 };
 
 int main(){
-    struct employee harry = {100, 34.23, "Harry"};
+    struct employee mukul = {100, 34.23, "Mukul"};
 
-    printf("Code is: %d \n", harry.code);
-    printf("Salary is: %f \n", harry.salary);
-    printf("Name is: %s \n", harry.name);
+    printf("Code is: %d \n", mukul.code);
+    printf("Salary is: %f \n", mukul.salary);
+    printf("Name is: %s \n", mukul.name);
  
 
     return 0;

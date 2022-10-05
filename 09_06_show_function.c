@@ -21,7 +21,7 @@ int main(){
     //(*ptr).code = 101; //or you can also write: ptr->code = 101;
     ptr->code = 101;
     ptr->salary = 11.01;
-    strcpy(ptr->name, "Harry");
+    strcpy(ptr->name, "Mukul");
 
     show(e1); 
     printf("The Code of employee is: %d\n", e1.code);

@@ -10,7 +10,7 @@ int main()
     printf("The value of c is %d\n", c);
     float p = 1.1;
     float q = p + 2.1;
-    // The compiler will through an error i.e. p is undeclared when the order of p and q are as follows
+    // The compiler will through an error in the following code i.e. p is undeclared where the order of p and q are as follows
     // float q = p + 2.1;
     // float p = 1.1;
     printf("The value of q is %f\n", q);

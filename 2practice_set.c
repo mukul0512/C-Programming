@@ -1,8 +1,10 @@
 #include <stdio.h>
+#include <math.h>
 
 int main()
 {
     // int a = 1; b = a; // Invalid
+    // int a = 1; int b = a; // Valid
     int a = 1;
     int b = a;        // Valid
     int p = 2, q = p; // Valid
@@ -10,7 +12,8 @@ int main()
     int y = x;        // Valid
     int v = 3 ^ 3;    // This is valid as it is a bitwise xor operator but not give the result 27
     int m = pow(3, 3);
-    char dt = '21 Dec 20222'; // Invalid because it takes only one character
+    // char dt = '21 Dec 20222'; // Invalid because it takes only one character
+    char dt = '2'; // Valid because it takes only one character
     char d = '5';             // Valid because it takes only one character
     double r = 3.0 / 8 - 2;
     float s = 3.0 / 8 - 2;

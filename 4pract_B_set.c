@@ -6,7 +6,7 @@ int main()
     do
     {
         sum += i;
-        printf("The value of sum(1 - 10) is %d\n", sum);
+        printf("The value of sum(1 to 10) is %d\n", sum);
         i++;
     } while (i <= n);
 

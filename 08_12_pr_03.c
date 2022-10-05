@@ -10,7 +10,7 @@ int strlen(char * st){
 }
 
 int main(){
-    char st[] = "Harry";
+    char st[] = "Mukul";
     int l = strlen(st);
     printf("The length of this string is %d", l);
     return 0;

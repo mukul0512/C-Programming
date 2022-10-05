@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    // char str[] = "Harry";
+    // char str[] = "Mukul";
     char str[] = {'H', 'a', 'r', 'r', 'y', '\0'};
     char *ptr = str;
     while(*ptr!='\0'){

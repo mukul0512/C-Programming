@@ -11,7 +11,7 @@ int occurence(char st[], char c){
     return count;
 }
 int main(){
-    char st[] = "Harry7777";
+    char st[] = "Mukul7777";
     int count = occurence(st, '7');
     printf("Occurences = %d", count);
     return 0;

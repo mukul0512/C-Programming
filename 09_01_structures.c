@@ -17,8 +17,8 @@ int main(){
     struct employee e1;
     e1.code = 100;
     e1.salary = 34.454;
-    // e1.name = "Harry"; --> wont work
-    strcpy(e1.name, "Harry");
+    // e1.name = "Mukul"; --> wont work
+    strcpy(e1.name, "Mukul");
 
     printf("%d\n", e1.code);
     printf("%.3f\n", e1.salary);

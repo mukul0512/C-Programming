@@ -4,7 +4,7 @@ int main(){
     FILE *ptr;
     int num;
     int num2;
-    ptr = fopen("Harry.txt", "r");
+    ptr = fopen("Mukul.txt", "r");
     fscanf(ptr, "%d", &num);
     fscanf(ptr, "%d", &num2);
     fclose(ptr);

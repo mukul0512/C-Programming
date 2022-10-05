@@ -8,8 +8,9 @@ int main(){
     //     printf("Enter the value of %d element: \n", i); 
     //     scanf("%d", &ptr[i]);
     // }
+    int i;
 
-    for(int i=0; i<6;i++){
+    for(i=0; i<6;i++){
         printf("The value of %d element is: %d\n", i, ptr[i]); 
     }
     return 0;

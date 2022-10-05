@@ -9,7 +9,7 @@ void slice(char *st, int m, int n){
 }
 
 int main(){
-    char st[] = "Harrysfsdfsdf";
+    char st[] = "Mukulkarnwal";
     slice(st, 1, 6);
     printf("%s", st);
     return 0;

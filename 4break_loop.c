@@ -10,9 +10,9 @@ int main()
         {
             break;
         }
-        
+
         i++;
     } while (i < 5);
-    
+
     return 0;
 }

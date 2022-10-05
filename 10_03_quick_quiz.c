@@ -4,7 +4,7 @@ int main(){
     FILE *ptr;
     int num;
     int num2;
-    ptr = fopen("Harr3y.txt", "r");
+    ptr = fopen("Muku3y.txt", "r");
     if (ptr == NULL){
         printf("This file does not exist\n");
     }

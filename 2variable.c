@@ -9,8 +9,8 @@ int main()
     int d = 45;
     int e = 4 + 45;
     printf("The value of a is %d \n", a);
-    printf("%f \n", b);
-    printf("%c \n", c);
+    printf("The value of b is %f \n", b);
+    printf("The value of vc is %c \n", c);
     printf("The sum of a and d is %d \n", a + d);
     printf("The sum of a and d is %d \n", e);
     return 0;

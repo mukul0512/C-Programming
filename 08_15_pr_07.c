@@ -8,7 +8,7 @@ void decrypt(char *c){
 }
 
 int main(){
-    char c[] = "dpnf!up!uijt!sppn";
+    char c[] = "dasd!ghjk!poiyt!karn";
     decrypt(c);
     printf("Decrypted string is: %s", c);
     return 0;

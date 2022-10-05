@@ -25,7 +25,7 @@ int main(){
     // Set the member values for e1
     ptr->code = 101;
     ptr->salary = 11.01;
-    strcpy(ptr->name, "Harry"); 
+    strcpy(ptr->name, "Mukul"); 
 
     show(e1);
 

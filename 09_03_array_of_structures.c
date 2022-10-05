@@ -12,11 +12,11 @@ int main(){
 
     facebook[0].code = 100;
     facebook[0].salary = 100.45;
-    strcpy(facebook[0].name, "Harry");
+    strcpy(facebook[0].name, "Mukul");
 
     facebook[1].code = 101;
     facebook[1].salary = 90.45;
-    strcpy(facebook[1].name, "Rohan");
+    strcpy(facebook[1].name, "Peeyush");
 
     facebook[2].code = 102;
     facebook[2].salary = 110.45;
